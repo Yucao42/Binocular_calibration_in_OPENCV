@@ -1,4 +1,0 @@
-/home/cy/Documents/ZED/Calib_Program/build/CMakeFiles/rebuild_cache.dir
-/home/cy/Documents/ZED/Calib_Program/build/CMakeFiles/calibration_main.dir
-/home/cy/Documents/ZED/Calib_Program/build/CMakeFiles/edit_cache.dir
-/home/cy/Documents/ZED/Calib_Program/build/CMakeFiles/Zed_calibration.dir
